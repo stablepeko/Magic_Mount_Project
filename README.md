@@ -1,6 +1,7 @@
 This is a Camera for camera mount on the kinova gen3 lite robotic arm.
 
-* 僅適用於特定的Webcam
+* Support Webcam SoftKinetic DepthSense DS325 Professional Kit
+* 任何底部螺絲孔距離17mm 的Webcam
 
 ## Known Issue
 
